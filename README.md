@@ -1,16 +1,68 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/dummy/giphy.gif" width="0" height="0" /> <!-- Placeholder for layout stability -->
+  
+  <h1>👨‍💻 Hola, soy Ronald</h1>
+  
+  <h3>🚀 Java Developer | Code Artisan | Future Software Architect</h3>
+  
+  <p>
+    <em>"El código es poesía lógica; estoy aquí para escribir los mejores versos."</em>
+  </p>
 
-<!--
-**LK-Ronald/LK-Ronald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br/>
 
-Here are some ideas to get you started:
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);Bug+Hunter;Java+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧐 Sobre mí
+
+No solo escribo código; **diseño soluciones**. Aunque estoy comenzando mi viaje en el desarrollo de software, mi enfoque es la excelencia, el código limpio (Clean Code) y la arquitectura robusta.
+
+Me especializo en **Java**, explorando las profundidades de la Programación Orientada a Objetos para crear software que no solo funcione, sino que perdure.
+
+- 🔭 **Actualmente trabajando en**: Proyectos desafiantes para dominar el ecosistema Java.
+- 🌱 **Aprendiendo**: Patrones de diseño, Estructuras de Datos Avanzadas y Algoritmos Optimización.
+- ⚡ **Superpoder**: Transformar café ☕ en código eficiente y depurado.
+
+---
+
+### 🛠️ Arsenal Tecnológico
+
+<div align="center">
+  <p>Mis herramientas para construir el futuro:</p>
+  
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+</div>
+
+---
+
+### � Métricas de un Genio en Crecimiento
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/LK-Ronald">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LK-Ronald&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-Ronald&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  </a>
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LK-Ronald&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <small>🚀 <i>Crafted with passion by Ronald</i></small>
+</div>

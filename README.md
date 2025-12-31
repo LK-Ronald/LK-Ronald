@@ -30,18 +30,6 @@ Me especializo en **Java**, explorando las profundidades de la Programación Ori
 
 ---
 
-### 🛠️ Arsenal Tecnológico
-
-<div align="center">
-  <p>Mis herramientas para construir el futuro:</p>
-  
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-</div>
-
 ---
 
 ### � Métricas de un Genio en Crecimiento

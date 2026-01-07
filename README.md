@@ -6,7 +6,7 @@
   <h3>🚀 Java Developer | Code Artisan | Future Software Architect</h3>
   
   <p>
-    <em>"El código es poesía lógica; estoy aquí para escribir los mejores versos."</em>
+    <em>"Nada es imposible, solo mentes incapaces"</em>
   </p>
 
   <br/>
@@ -26,7 +26,8 @@ Me especializo en **Java**, explorando las profundidades de la Programación Ori
 
 -  **Actualmente trabajando en**: Proyectos desafiantes para dominar el ecosistema Java.
 -  **Aprendiendo**: Patrones de diseño, Estructuras de Datos Avanzadas y Algoritmos Optimización.
--  **Superpoder**: Transformar café ☕ en código eficiente y depurado.
+-  **Superpoder**: Aprendo con facilidad y me adapto rapido.
+-  **Habilidades sociales**: Buena comunicacion, sociable y muy empatico.
 
 ---
 
@@ -52,5 +53,5 @@ Me especializo en **Java**, explorando las profundidades de la Programación Ori
 </div>
 
 <div align="center">
-  <small>🚀 <i>Crafted with passion by Ronald</i></small>
+  <small> <i>Creado por mi, Ronald</i> </small>
 </div>

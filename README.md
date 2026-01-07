@@ -18,15 +18,15 @@
 
 ---
 
-### 🧐 Sobre mí
+###  Sobre mí
 
 No solo escribo código; **diseño soluciones**. Aunque estoy comenzando mi viaje en el desarrollo de software, mi enfoque es la excelencia, el código limpio (Clean Code) y la arquitectura robusta.
 
 Me especializo en **Java**, explorando las profundidades de la Programación Orientada a Objetos para crear software que no solo funcione, sino que perdure.
 
-- 🔭 **Actualmente trabajando en**: Proyectos desafiantes para dominar el ecosistema Java.
-- 🌱 **Aprendiendo**: Patrones de diseño, Estructuras de Datos Avanzadas y Algoritmos Optimización.
-- ⚡ **Superpoder**: Transformar café ☕ en código eficiente y depurado.
+-  **Actualmente trabajando en**: Proyectos desafiantes para dominar el ecosistema Java.
+-  **Aprendiendo**: Patrones de diseño, Estructuras de Datos Avanzadas y Algoritmos Optimización.
+-  **Superpoder**: Transformar café ☕ en código eficiente y depurado.
 
 ---
 

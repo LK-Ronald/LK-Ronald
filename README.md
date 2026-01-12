@@ -1,4 +1,8 @@
-# Ronald
+<div align="center">
+  <h1 align="center">Hola, soy Ronald 👋</h1>
+  <img src="https://media.giphy.com/media/dummy/giphy.gif" width="0" height="0" />
+</div>
+
 ### Ingeniero de Software |  Java Developer | SQL Developer
 
 ---
@@ -23,12 +27,14 @@ Además, priorizo la **comunicación y la empatía** dentro del equipo. El softw
 
 ---
 
-### Actividad y Estadísticas
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LK-Ronald&show_icons=true&theme=transparent&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-Ronald&layout=compact&theme=transparent&hide_border=true" height="160" alt="languages graph" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=LK-Ronald&theme=transparent&hide_border=true" height="160" alt="streak graph" />
-</div>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/LK-Ronald">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LK-Ronald&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LK-Ronald&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 

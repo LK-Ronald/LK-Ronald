@@ -1,29 +1,29 @@
 # Ronald
-### Software Engineer | Java Developer | SQL Developer
+### Ingeniero de Software |  Java Developer | SQL Developer
 
 ---
 
-### Engineering Philosophy
+### Filosofía de Ingeniería
 
-I approach software development as a discipline of engineering rather than just execution. My focus is on designing systems that are not only functional but also maintainable and scalable. I believe that **Clean Code** and robust architecture are not optional luxuries but fundamental requirements for any software that intends to provide long-term value.
+Abordo el desarrollo de software como una disciplina de ingeniería más que de simple ejecución. Mi enfoque es diseñar sistemas que no solo sean funcionales, sino también mantenibles y escalables. Considero que el **Código Limpio (Clean Code)** y una arquitectura robusta no son lujos opcionales, sino requisitos fundamentales para cualquier software que pretenda aportar valor a largo plazo.
 
-### Technical Focus
+### Enfoque Técnico
 
-My primary expertise lies within the **Java ecosystem**, where I leverage Object-Oriented Programming to model complex real-world domains. I am currently deepening my research into:
+Mi experiencia principal reside en el **ecosistema Java**, donde aplico la Programación Orientada a Objetos para modelar dominios complejos del mundo real. Actualmente estoy profundizando mi investigación en:
 
-*   **System Architecture**: Implementing SOLID principles and Design Patterns to reduce coupling and increase cohesion.
-*   **Performance Optimization**: Understanding Data Structures and Algorithms to write efficient, resource-conscious code.
-*   **JVM Internals**: Exploring how the Java Virtual Machine manages memory and execution to write more effective applications.
+*   **Arquitectura de Sistemas**: Implementación de principios SOLID y Patrones de Diseño para reducir el acoplamiento y aumentar la cohesión.
+*   **Optimización de Rendimiento**: Comprensión profunda de Estructuras de Datos y Algoritmos para escribir código eficiente y consciente de los recursos.
+*   **Internos de la JVM**: Exploración de cómo la Máquina Virtual de Java gestiona la memoria y la ejecución para crear aplicaciones más efectivas.
 
-### Professional Value
+### Valor Profesional
 
-In a professional environment, technical skill must be matched by adaptability. My strength lies in my ability to digest complex information rapidly and verify assumptions before implementation. I strive to be a developer who bridges the gap between abstract technical requirements and concrete business goals.
+En un entorno profesional, la habilidad técnica debe ir acompañada de adaptabilidad. Mi fortaleza radica en mi capacidad para asimilar información compleja rápidamente y verificar las suposiciones antes de la implementación. Me esfuerzo por ser un desarrollador que cierre la brecha entre los requisitos técnicos abstractos y los objetivos comerciales concretos.
 
-Furthermore, I prioritize **communication and empathy** within a team. Software is built by people for people; distinct clarity in technical discourse avoids costly misunderstandings and accelerates the development cycle.
+Además, priorizo la **comunicación y la empatía** dentro del equipo. El software es construido por personas para personas; una claridad distintiva en el discurso técnico evita malentendidos costosos y acelera el ciclo de desarrollo.
 
 ---
 
-### Activity & Statistics
+### Actividad y Estadísticas
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=LK-Ronald&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="150" alt="stats graph" />

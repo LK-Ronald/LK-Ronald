@@ -25,8 +25,10 @@ Además, priorizo la **comunicación y la empatía** dentro del equipo. El softw
 
 ### Actividad y Estadísticas
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LK-Ronald&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-Ronald&layout=compact&theme=graywhite&hide_border=true" height="150" alt="languages graph" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LK-Ronald&show_icons=true&theme=transparent&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-Ronald&layout=compact&theme=transparent&hide_border=true" height="160" alt="languages graph" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=LK-Ronald&theme=transparent&hide_border=true" height="160" alt="streak graph" />
 </div>
 

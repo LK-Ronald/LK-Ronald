@@ -1,6 +1,8 @@
 <div align="center">
   <h1 align="center">Hola, soy Ronald 👋</h1>
-  <img src="https://media.giphy.com/media/dummy/giphy.gif" width="0" height="0" />
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);Bug+Hunter;Java+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+  </a>
 </div>
 
 ### Ingeniero de Software |  Java Developer | SQL Developer

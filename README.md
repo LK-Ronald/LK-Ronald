@@ -1,57 +1,32 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dummy/giphy.gif" width="0" height="0" /> <!-- Placeholder for layout stability -->
-  
-  <h1>👨‍💻 Hola, soy Ronald</h1>
-  
-  <h3>🚀 Java Developer | Code Artisan | Future Software Architect</h3>
-  
-  <p>
-    <em>"Nada es imposible, solo mentes incapaces"</em>
-  </p>
-
-  <br/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);Bug+Hunter;Java+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
-  </a>
-</div>
+# Ronald
+### Software Engineer | Java Developer | SQL Developer
 
 ---
 
-###  Sobre mí
+### Engineering Philosophy
 
-No solo escribo código; **diseño soluciones**. Aunque estoy comenzando mi viaje en el desarrollo de software, mi enfoque es la excelencia, el código limpio (Clean Code) y la arquitectura robusta.
+I approach software development as a discipline of engineering rather than just execution. My focus is on designing systems that are not only functional but also maintainable and scalable. I believe that **Clean Code** and robust architecture are not optional luxuries but fundamental requirements for any software that intends to provide long-term value.
 
-Me especializo en **Java**, explorando las profundidades de la Programación Orientada a Objetos para crear software que no solo funcione, sino que perdure.
+### Technical Focus
 
--  **Actualmente trabajando en**: Proyectos desafiantes para dominar el ecosistema Java.
--  **Aprendiendo**: Patrones de diseño, Estructuras de Datos Avanzadas y Algoritmos Optimización.
--  **Superpoder**: Aprendo con facilidad y me adapto rapido.
--  **Habilidades sociales**: Buena comunicacion, sociable y muy empatico.
+My primary expertise lies within the **Java ecosystem**, where I leverage Object-Oriented Programming to model complex real-world domains. I am currently deepening my research into:
+
+*   **System Architecture**: Implementing SOLID principles and Design Patterns to reduce coupling and increase cohesion.
+*   **Performance Optimization**: Understanding Data Structures and Algorithms to write efficient, resource-conscious code.
+*   **JVM Internals**: Exploring how the Java Virtual Machine manages memory and execution to write more effective applications.
+
+### Professional Value
+
+In a professional environment, technical skill must be matched by adaptability. My strength lies in my ability to digest complex information rapidly and verify assumptions before implementation. I strive to be a developer who bridges the gap between abstract technical requirements and concrete business goals.
+
+Furthermore, I prioritize **communication and empathy** within a team. Software is built by people for people; distinct clarity in technical discourse avoids costly misunderstandings and accelerates the development cycle.
 
 ---
 
----
+### Activity & Statistics
 
-### � Métricas de un Genio en Crecimiento
-
-<div align="center">
-  <br/>
-  <a href="https://github.com/LK-Ronald">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LK-Ronald&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-Ronald&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-  </a>
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LK-Ronald&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LK-Ronald&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-Ronald&layout=compact&theme=graywhite&hide_border=true" height="150" alt="languages graph" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-
-<div align="center">
-  <small> <i>Creado por mi, Ronald</i> </small>
-</div>
